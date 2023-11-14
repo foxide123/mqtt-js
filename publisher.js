@@ -1,8 +1,8 @@
 const mqtt = require('mqtt');
 const fs = require('fs');
 
-var KEY = fs.readFileSync('mqtt-nopass.key');
-var CERT = fs.readFileSync('mqtt.crt');
+var KEY = fs.readFileSync('certificates/ca/privkey.pem');
+var CERT = fs.readFileSync('certificates/ca/fullchain.pem');
 
 var options = {
     rejectUnauthorized:true,
@@ -12,7 +12,8 @@ var options = {
     password: "9aRUBZ9SETTLzYK"
 }
 
-const client = mqtt.connect('mqtt://65.21.155.237:1883', options);
+const client = mqtt.connect('mqtts://mqtt.ohmio.org', options);
+//const client = mqtt.connect('mqtt://65.21.155.237:1883', options);
 
 client.stream.on('error', (err) => {
     console.log('error', err);

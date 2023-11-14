@@ -1,13 +1,15 @@
 version: "3.7"
 services: 
   mqtt:
-    container_name: ohmiomqtt
-    image: eclipse-mosquitto:2.0.18
+    container_name: ohmio_mqtt
+    image: ohmio_mqtt_image
     restart: always
     volumes:
       - ./mosquitto.conf:/mosquitto/config/mosquitto.conf
       - ./pwfile:/mosquitto/config/pwfile
       - ./data:/mosquitto/data/
-      - /etc/letsencrypt/live/mqtt.ohmio.org:/mosquitto/certificates
+      - ./certificates/ca:/mosquitto/certificates
+      #- /etc/letsencrypt/live/mqtt.ohmio.org:/mosquitto/certificates
+      - ./log:/mosquitto/log  
     ports:
       - "8883:8883"

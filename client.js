@@ -20,7 +20,8 @@ var options = {
     username: "ohmio",
     password: "9aRUBZ9SETTLzYK"
 }
-const client = mqtt.connect('mqtts://65.21.155.237:1883', options);
+const client = mqtt.connect('mqtts://mqtt.ohmio.org', options);
+//const client = mqtt.connect('mqtts://65.21.155.237:8883', options);
 
 client.stream.on('error', (err) => {
     console.log('error in mqtt', err);

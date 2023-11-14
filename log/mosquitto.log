@@ -1,0 +1,252 @@
+1699876940: mosquitto version 2.0.18 starting
+1699876940: Config loaded from /mosquitto/config/mosquitto.conf.
+1699876940: Warning: File /mosquitto/config/pwfile/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/pwfile/passwd`.
+1699876940: Opening ipv4 listen socket on port 8883.
+1699876940: Error: Unable to load server certificate "/mosquitto/certificates/fullchain.pem". Check certfile.
+1699876940: OpenSSL Error[0]: error:02FFF002:system library:func(4095):No such file or directory
+1699876940: OpenSSL Error[1]: error:20FFF002:BIO routines:CRYPTO_internal:system lib
+1699876940: OpenSSL Error[2]: error:14FFF002:SSL routines:(UNKNOWN)SSL_internal:system lib
+1699876941: mosquitto version 2.0.18 starting
+1699876941: Config loaded from /mosquitto/config/mosquitto.conf.
+1699876941: Warning: File /mosquitto/config/pwfile/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/pwfile/passwd`.
+1699876941: Opening ipv4 listen socket on port 8883.
+1699876941: Error: Unable to load server certificate "/mosquitto/certificates/fullchain.pem". Check certfile.
+1699876941: OpenSSL Error[0]: error:02FFF002:system library:func(4095):No such file or directory
+1699876941: OpenSSL Error[1]: error:20FFF002:BIO routines:CRYPTO_internal:system lib
+1699876941: OpenSSL Error[2]: error:14FFF002:SSL routines:(UNKNOWN)SSL_internal:system lib
+1699876942: mosquitto version 2.0.18 starting
+1699876942: Config loaded from /mosquitto/config/mosquitto.conf.
+1699876942: Warning: File /mosquitto/config/pwfile/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/pwfile/passwd`.
+1699876942: Opening ipv4 listen socket on port 8883.
+1699876942: Error: Unable to load server certificate "/mosquitto/certificates/fullchain.pem". Check certfile.
+1699876942: OpenSSL Error[0]: error:02FFF002:system library:func(4095):No such file or directory
+1699876942: OpenSSL Error[1]: error:20FFF002:BIO routines:CRYPTO_internal:system lib
+1699876942: OpenSSL Error[2]: error:14FFF002:SSL routines:(UNKNOWN)SSL_internal:system lib
+1699876942: mosquitto version 2.0.18 starting
+1699876942: Config loaded from /mosquitto/config/mosquitto.conf.
+1699876942: Warning: File /mosquitto/config/pwfile/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/pwfile/passwd`.
+1699876942: Opening ipv4 listen socket on port 8883.
+1699876942: Error: Unable to load server certificate "/mosquitto/certificates/fullchain.pem". Check certfile.
+1699876942: OpenSSL Error[0]: error:02FFF002:system library:func(4095):No such file or directory
+1699876942: OpenSSL Error[1]: error:20FFF002:BIO routines:CRYPTO_internal:system lib
+1699876942: OpenSSL Error[2]: error:14FFF002:SSL routines:(UNKNOWN)SSL_internal:system lib
+1699876944: mosquitto version 2.0.18 starting
+1699876944: Config loaded from /mosquitto/config/mosquitto.conf.
+1699876944: Warning: File /mosquitto/config/pwfile/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/pwfile/passwd`.
+1699876944: Opening ipv4 listen socket on port 8883.
+1699876944: Error: Unable to load server certificate "/mosquitto/certificates/fullchain.pem". Check certfile.
+1699876944: OpenSSL Error[0]: error:02FFF002:system library:func(4095):No such file or directory
+1699876944: OpenSSL Error[1]: error:20FFF002:BIO routines:CRYPTO_internal:system lib
+1699876944: OpenSSL Error[2]: error:14FFF002:SSL routines:(UNKNOWN)SSL_internal:system lib
+1699876946: mosquitto version 2.0.18 starting
+1699876946: Config loaded from /mosquitto/config/mosquitto.conf.
+1699876946: Warning: File /mosquitto/config/pwfile/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/pwfile/passwd`.
+1699876946: Opening ipv4 listen socket on port 8883.
+1699876946: Error: Unable to load server certificate "/mosquitto/certificates/fullchain.pem". Check certfile.
+1699876946: OpenSSL Error[0]: error:02FFF002:system library:func(4095):No such file or directory
+1699876946: OpenSSL Error[1]: error:20FFF002:BIO routines:CRYPTO_internal:system lib
+1699876946: OpenSSL Error[2]: error:14FFF002:SSL routines:(UNKNOWN)SSL_internal:system lib
+1699876950: mosquitto version 2.0.18 starting
+1699876950: Config loaded from /mosquitto/config/mosquitto.conf.
+1699876950: Warning: File /mosquitto/config/pwfile/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/pwfile/passwd`.
+1699876950: Opening ipv4 listen socket on port 8883.
+1699876950: Error: Unable to load server certificate "/mosquitto/certificates/fullchain.pem". Check certfile.
+1699876950: OpenSSL Error[0]: error:02FFF002:system library:func(4095):No such file or directory
+1699876950: OpenSSL Error[1]: error:20FFF002:BIO routines:CRYPTO_internal:system lib
+1699876950: OpenSSL Error[2]: error:14FFF002:SSL routines:(UNKNOWN)SSL_internal:system lib
+1699876957: mosquitto version 2.0.18 starting
+1699876957: Config loaded from /mosquitto/config/mosquitto.conf.
+1699876957: Warning: File /mosquitto/config/pwfile/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/pwfile/passwd`.
+1699876957: Opening ipv4 listen socket on port 8883.
+1699876957: Error: Unable to load server certificate "/mosquitto/certificates/fullchain.pem". Check certfile.
+1699876957: OpenSSL Error[0]: error:02FFF002:system library:func(4095):No such file or directory
+1699876957: OpenSSL Error[1]: error:20FFF002:BIO routines:CRYPTO_internal:system lib
+1699876957: OpenSSL Error[2]: error:14FFF002:SSL routines:(UNKNOWN)SSL_internal:system lib
+1699876970: mosquitto version 2.0.18 starting
+1699876970: Config loaded from /mosquitto/config/mosquitto.conf.
+1699876970: Warning: File /mosquitto/config/pwfile/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/pwfile/passwd`.
+1699876970: Opening ipv4 listen socket on port 8883.
+1699876970: Error: Unable to load server certificate "/mosquitto/certificates/fullchain.pem". Check certfile.
+1699876970: OpenSSL Error[0]: error:02FFF002:system library:func(4095):No such file or directory
+1699876970: OpenSSL Error[1]: error:20FFF002:BIO routines:CRYPTO_internal:system lib
+1699876970: OpenSSL Error[2]: error:14FFF002:SSL routines:(UNKNOWN)SSL_internal:system lib
+1699876996: mosquitto version 2.0.18 starting
+1699876996: Config loaded from /mosquitto/config/mosquitto.conf.
+1699876996: Warning: File /mosquitto/config/pwfile/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/pwfile/passwd`.
+1699876996: Opening ipv4 listen socket on port 8883.
+1699876996: Error: Unable to load server certificate "/mosquitto/certificates/fullchain.pem". Check certfile.
+1699876996: OpenSSL Error[0]: error:02FFF002:system library:func(4095):No such file or directory
+1699876996: OpenSSL Error[1]: error:20FFF002:BIO routines:CRYPTO_internal:system lib
+1699876996: OpenSSL Error[2]: error:14FFF002:SSL routines:(UNKNOWN)SSL_internal:system lib
+1699877048: mosquitto version 2.0.18 starting
+1699877048: Config loaded from /mosquitto/config/mosquitto.conf.
+1699877048: Warning: File /mosquitto/config/pwfile/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/pwfile/passwd`.
+1699877048: Opening ipv4 listen socket on port 8883.
+1699877048: Error: Unable to load server certificate "/mosquitto/certificates/fullchain.pem". Check certfile.
+1699877048: OpenSSL Error[0]: error:02FFF002:system library:func(4095):No such file or directory
+1699877048: OpenSSL Error[1]: error:20FFF002:BIO routines:CRYPTO_internal:system lib
+1699877048: OpenSSL Error[2]: error:14FFF002:SSL routines:(UNKNOWN)SSL_internal:system lib
+1699877108: mosquitto version 2.0.18 starting
+1699877108: Config loaded from /mosquitto/config/mosquitto.conf.
+1699877108: Warning: File /mosquitto/config/pwfile/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/pwfile/passwd`.
+1699877108: Opening ipv4 listen socket on port 8883.
+1699877108: Error: Unable to load server certificate "/mosquitto/certificates/fullchain.pem". Check certfile.
+1699877108: OpenSSL Error[0]: error:02FFF002:system library:func(4095):No such file or directory
+1699877108: OpenSSL Error[1]: error:20FFF002:BIO routines:CRYPTO_internal:system lib
+1699877108: OpenSSL Error[2]: error:14FFF002:SSL routines:(UNKNOWN)SSL_internal:system lib
+1699877169: mosquitto version 2.0.18 starting
+1699877169: Config loaded from /mosquitto/config/mosquitto.conf.
+1699877169: Warning: File /mosquitto/config/pwfile/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/pwfile/passwd`.
+1699877169: Opening ipv4 listen socket on port 8883.
+1699877169: Error: Unable to load server certificate "/mosquitto/certificates/fullchain.pem". Check certfile.
+1699877169: OpenSSL Error[0]: error:02FFF002:system library:func(4095):No such file or directory
+1699877169: OpenSSL Error[1]: error:20FFF002:BIO routines:CRYPTO_internal:system lib
+1699877169: OpenSSL Error[2]: error:14FFF002:SSL routines:(UNKNOWN)SSL_internal:system lib
+1699877230: mosquitto version 2.0.18 starting
+1699877230: Config loaded from /mosquitto/config/mosquitto.conf.
+1699877230: Warning: File /mosquitto/config/pwfile/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/pwfile/passwd`.
+1699877230: Opening ipv4 listen socket on port 8883.
+1699877230: Error: Unable to load server certificate "/mosquitto/certificates/fullchain.pem". Check certfile.
+1699877230: OpenSSL Error[0]: error:02FFF002:system library:func(4095):No such file or directory
+1699877230: OpenSSL Error[1]: error:20FFF002:BIO routines:CRYPTO_internal:system lib
+1699877230: OpenSSL Error[2]: error:14FFF002:SSL routines:(UNKNOWN)SSL_internal:system lib
+1699877290: mosquitto version 2.0.18 starting
+1699877290: Config loaded from /mosquitto/config/mosquitto.conf.
+1699877290: Warning: File /mosquitto/config/pwfile/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/pwfile/passwd`.
+1699877290: Opening ipv4 listen socket on port 8883.
+1699877290: Error: Unable to load server certificate "/mosquitto/certificates/fullchain.pem". Check certfile.
+1699877290: OpenSSL Error[0]: error:02FFF002:system library:func(4095):No such file or directory
+1699877290: OpenSSL Error[1]: error:20FFF002:BIO routines:CRYPTO_internal:system lib
+1699877290: OpenSSL Error[2]: error:14FFF002:SSL routines:(UNKNOWN)SSL_internal:system lib
+1699877351: mosquitto version 2.0.18 starting
+1699877351: Config loaded from /mosquitto/config/mosquitto.conf.
+1699877351: Warning: File /mosquitto/config/pwfile/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/pwfile/passwd`.
+1699877351: Opening ipv4 listen socket on port 8883.
+1699877351: Error: Unable to load server certificate "/mosquitto/certificates/fullchain.pem". Check certfile.
+1699877351: OpenSSL Error[0]: error:02FFF002:system library:func(4095):No such file or directory
+1699877351: OpenSSL Error[1]: error:20FFF002:BIO routines:CRYPTO_internal:system lib
+1699877351: OpenSSL Error[2]: error:14FFF002:SSL routines:(UNKNOWN)SSL_internal:system lib
+1699877411: mosquitto version 2.0.18 starting
+1699877411: Config loaded from /mosquitto/config/mosquitto.conf.
+1699877411: Warning: File /mosquitto/config/pwfile/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/pwfile/passwd`.
+1699877411: Opening ipv4 listen socket on port 8883.
+1699877411: Error: Unable to load server certificate "/mosquitto/certificates/fullchain.pem". Check certfile.
+1699877411: OpenSSL Error[0]: error:02FFF002:system library:func(4095):No such file or directory
+1699877411: OpenSSL Error[1]: error:20FFF002:BIO routines:CRYPTO_internal:system lib
+1699877411: OpenSSL Error[2]: error:14FFF002:SSL routines:(UNKNOWN)SSL_internal:system lib
+1699877472: mosquitto version 2.0.18 starting
+1699877472: Config loaded from /mosquitto/config/mosquitto.conf.
+1699877472: Warning: File /mosquitto/config/pwfile/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/pwfile/passwd`.
+1699877472: Opening ipv4 listen socket on port 8883.
+1699877472: Error: Unable to load server certificate "/mosquitto/certificates/fullchain.pem". Check certfile.
+1699877472: OpenSSL Error[0]: error:02FFF002:system library:func(4095):No such file or directory
+1699877472: OpenSSL Error[1]: error:20FFF002:BIO routines:CRYPTO_internal:system lib
+1699877472: OpenSSL Error[2]: error:14FFF002:SSL routines:(UNKNOWN)SSL_internal:system lib
+1699877532: mosquitto version 2.0.18 starting
+1699877532: Config loaded from /mosquitto/config/mosquitto.conf.
+1699877532: Warning: File /mosquitto/config/pwfile/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/pwfile/passwd`.
+1699877532: Opening ipv4 listen socket on port 8883.
+1699877532: Error: Unable to load server certificate "/mosquitto/certificates/fullchain.pem". Check certfile.
+1699877532: OpenSSL Error[0]: error:02FFF002:system library:func(4095):No such file or directory
+1699877532: OpenSSL Error[1]: error:20FFF002:BIO routines:CRYPTO_internal:system lib
+1699877532: OpenSSL Error[2]: error:14FFF002:SSL routines:(UNKNOWN)SSL_internal:system lib
+1699877593: mosquitto version 2.0.18 starting
+1699877593: Config loaded from /mosquitto/config/mosquitto.conf.
+1699877593: Warning: File /mosquitto/config/pwfile/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/pwfile/passwd`.
+1699877593: Opening ipv4 listen socket on port 8883.
+1699877593: Error: Unable to load server certificate "/mosquitto/certificates/fullchain.pem". Check certfile.
+1699877593: OpenSSL Error[0]: error:02FFF002:system library:func(4095):No such file or directory
+1699877593: OpenSSL Error[1]: error:20FFF002:BIO routines:CRYPTO_internal:system lib
+1699877593: OpenSSL Error[2]: error:14FFF002:SSL routines:(UNKNOWN)SSL_internal:system lib
+1699877653: mosquitto version 2.0.18 starting
+1699877653: Config loaded from /mosquitto/config/mosquitto.conf.
+1699877653: Warning: File /mosquitto/config/pwfile/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/pwfile/passwd`.
+1699877653: Opening ipv4 listen socket on port 8883.
+1699877653: Error: Unable to load server certificate "/mosquitto/certificates/fullchain.pem". Check certfile.
+1699877653: OpenSSL Error[0]: error:02FFF002:system library:func(4095):No such file or directory
+1699877653: OpenSSL Error[1]: error:20FFF002:BIO routines:CRYPTO_internal:system lib
+1699877653: OpenSSL Error[2]: error:14FFF002:SSL routines:(UNKNOWN)SSL_internal:system lib
+1699877714: mosquitto version 2.0.18 starting
+1699877714: Config loaded from /mosquitto/config/mosquitto.conf.
+1699877714: Warning: File /mosquitto/config/pwfile/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/pwfile/passwd`.
+1699877714: Opening ipv4 listen socket on port 8883.
+1699877714: Error: Unable to load server certificate "/mosquitto/certificates/fullchain.pem". Check certfile.
+1699877714: OpenSSL Error[0]: error:02FFF002:system library:func(4095):No such file or directory
+1699877714: OpenSSL Error[1]: error:20FFF002:BIO routines:CRYPTO_internal:system lib
+1699877714: OpenSSL Error[2]: error:14FFF002:SSL routines:(UNKNOWN)SSL_internal:system lib
+1699877774: mosquitto version 2.0.18 starting
+1699877774: Config loaded from /mosquitto/config/mosquitto.conf.
+1699877774: Warning: File /mosquitto/config/pwfile/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/pwfile/passwd`.
+1699877774: Opening ipv4 listen socket on port 8883.
+1699877774: Error: Unable to load server certificate "/mosquitto/certificates/fullchain.pem". Check certfile.
+1699877774: OpenSSL Error[0]: error:02FFF002:system library:func(4095):No such file or directory
+1699877774: OpenSSL Error[1]: error:20FFF002:BIO routines:CRYPTO_internal:system lib
+1699877774: OpenSSL Error[2]: error:14FFF002:SSL routines:(UNKNOWN)SSL_internal:system lib
+1699877835: mosquitto version 2.0.18 starting
+1699877835: Config loaded from /mosquitto/config/mosquitto.conf.
+1699877835: Warning: File /mosquitto/config/pwfile/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/pwfile/passwd`.
+1699877835: Opening ipv4 listen socket on port 8883.
+1699877835: Error: Unable to load server certificate "/mosquitto/certificates/fullchain.pem". Check certfile.
+1699877835: OpenSSL Error[0]: error:02FFF002:system library:func(4095):No such file or directory
+1699877835: OpenSSL Error[1]: error:20FFF002:BIO routines:CRYPTO_internal:system lib
+1699877835: OpenSSL Error[2]: error:14FFF002:SSL routines:(UNKNOWN)SSL_internal:system lib
+1699877896: mosquitto version 2.0.18 starting
+1699877896: Config loaded from /mosquitto/config/mosquitto.conf.
+1699877896: Warning: File /mosquitto/config/pwfile/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/pwfile/passwd`.
+1699877896: Opening ipv4 listen socket on port 8883.
+1699877896: Error: Unable to load server certificate "/mosquitto/certificates/fullchain.pem". Check certfile.
+1699877896: OpenSSL Error[0]: error:02FFF002:system library:func(4095):No such file or directory
+1699877896: OpenSSL Error[1]: error:20FFF002:BIO routines:CRYPTO_internal:system lib
+1699877896: OpenSSL Error[2]: error:14FFF002:SSL routines:(UNKNOWN)SSL_internal:system lib
+1699877957: mosquitto version 2.0.18 starting
+1699877957: Config loaded from /mosquitto/config/mosquitto.conf.
+1699877957: Warning: File /mosquitto/config/pwfile/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/pwfile/passwd`.
+1699877957: Opening ipv4 listen socket on port 8883.
+1699877957: Error: Unable to load server certificate "/mosquitto/certificates/fullchain.pem". Check certfile.
+1699877957: OpenSSL Error[0]: error:02FFF002:system library:func(4095):No such file or directory
+1699877957: OpenSSL Error[1]: error:20FFF002:BIO routines:CRYPTO_internal:system lib
+1699877957: OpenSSL Error[2]: error:14FFF002:SSL routines:(UNKNOWN)SSL_internal:system lib
+1699878006: mosquitto version 2.0.18 starting
+1699878006: Config loaded from /mosquitto/config/mosquitto.conf.
+1699878006: Warning: File /mosquitto/config/pwfile/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/pwfile/passwd`.
+1699878006: Opening ipv4 listen socket on port 8883.
+1699878006: mosquitto version 2.0.18 running
+1699878574: mosquitto version 2.0.18 starting
+1699878574: Config loaded from /mosquitto/config/mosquitto.conf.
+1699878574: Warning: File /mosquitto/config/pwfile/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/pwfile/passwd`.
+1699878574: Opening ipv4 listen socket on port 8883.
+1699878574: mosquitto version 2.0.18 running
+1699880374: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1699882407: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1699884208: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1699887622: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1699892639: mosquitto version 2.0.18 terminating
+1699892639: Saving in-memory database to /mosquitto/data//mosquitto.db.
